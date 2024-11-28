@@ -1,5 +1,11 @@
 export const AddCategory = ()=>{
     return(
-        <div>AddCategory</div>
+        <input
+        type = "text"
+        placeholder = "Buscar Gifs"
+        
+        />
+        
+     
     )
 }
