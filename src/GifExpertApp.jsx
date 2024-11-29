@@ -8,7 +8,6 @@ export const GifExpertApp = () => {
         setCategories([...categories, 'Valorant']);
 
     }
-
     return (
         <>
         {/* titulo */}
