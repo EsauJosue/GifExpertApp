@@ -11,12 +11,12 @@ export const GifExpertApp = () => {
     return (
         <>
         {/* titulo */}
-            <h1>GifExpertAppxxx</h1>
+            <h1>GifExpertApp</h1>
         {/* input */}
-
         {/* listado de Gifs */}
         {/* Agregar categoria al dar clic al boton */}
-        <AddCategory/>
+            <AddCategory/>
+     
         {/* Guardar lo que escriben en el input */}
         <button onClick={onAddCategory}>Agregar</button>
 
